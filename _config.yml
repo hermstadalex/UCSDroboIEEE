@@ -9,10 +9,8 @@
 title: RoboIEEE UCSD
 email: ahermsta@ucsd.edu
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/UCSDroboIEEE" # the subpath of your site, e.g. /blog
-url: "http://hermstadalex.github.io/UCSDroboIEEE/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://roboieee-ucsd.xyz/"# the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
