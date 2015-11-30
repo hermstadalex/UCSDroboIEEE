@@ -33,7 +33,7 @@ controller an unsuitable fit for our team and project.
 #### *Second Choice*:
 The **Erle-Brain 2** was created to conquer the niche exposed by Beagle Bone
 Black auto-pilot platforms, ensuring that it meets basic I/O, easily integrates
-GPS+APM, and packs plenty of power for image processing. The downside tothe EB2
+GPS+APM, and packs plenty of power for image processing. The downside to the EB2
 is that the community is new. So if any bugs arise support would be difficult to
 find. Plus, its tailored header pins and connections could be a problem if used
 without specifically compatible hardware.
