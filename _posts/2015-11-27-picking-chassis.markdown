@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Practice #4: Picking a Chassis and Peripherals"
+title:  "Practice #7: Picking a Chassis and Peripherals"
 date:   2015-11-27 23:29:13 -0800
 categories: jekyll update
 ---
@@ -59,7 +59,7 @@ specifics, and there are a lot of interdependencies between the software,
 hardware, and peripherals teams, but the choices have been greatly narrowed
 down.
   
-- Alex Hermstad
+\- Alex Hermstad
 
 
 

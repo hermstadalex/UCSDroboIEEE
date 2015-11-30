@@ -20,13 +20,13 @@ In order of importance:
 2. GPS
 3. Machine Vision
   
-###### Third Choice:
+#### Third Choice:
 Inforce6410
   
-###### Second Choice:
+#### Second Choice:
 Erle-Brain 2
   
-###### Honorable Mention:
+#### Honorable Mention:
 Another option for a control platform would be the SnickeDoodle, due to its
 being small, powerful, compatible, and started by a community of makers. It
 features 179 I/O ports. Unfortunately it was still being funded via crowdsource.
@@ -44,11 +44,11 @@ of I/O pins, full camera+openCV support, and much more expandable than the EB2
 through the use of capes. Unfortunately, most of its community migrated to the
 EB2, and the suggested GPS module must be hand soldered.
   
-###### Final Decision: Navio+
+#### Final Decision: Navio+
 The team collective agree upon the Navio+ because it is more extensible and is a
 better learning environment than Erle-Brain2 and Inforce6410. This would also
 mean that our skills gained from using the Raspberry Pi with Navio+ could be
 applied to hobbies outside of Robomagellan. In case of trouble
 shooting, there is vast online resources and documentation for many years. 
   
-- Karina Nino
+\- Karina Nino
