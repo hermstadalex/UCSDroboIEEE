@@ -39,7 +39,7 @@ find. Plus, its tailored header pins and connections could be a problem if used
 without specifically compatible hardware.
   
 #### *Honorable Mention*:
-Another option for a control platform would be the **SnickeDoodle**, due to its 
+Another option for a control platform would be the **SnickerDoodle**, due to its 
 being small, powerful, compatible, and started by a community of makers. It 
 features 179 I/O ports, 2.4 and 5GHz WiFi, Bluetooth, 1GB of RAM, and an ARM
 Cortex A9. Unfortunately it was still in production at the time of our decision.
