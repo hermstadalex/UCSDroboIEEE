@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Picking a Chassis and Peripherals"
+title:  "Practice #4: Picking a Chassis and Peripherals"
 date:   2015-11-27 23:29:13 -0800
 categories: jekyll update
 ---
 
-During practice on Monday, November 23, the hardware and peripherals teams
+During practice #7 on Monday, November 23, the hardware and peripherals teams
 discussed their ideas and thought processes for what type of chassis and sensors
 we should consider for our project.
 
@@ -58,6 +58,8 @@ chassis and necessary peripherals. There is more research to be done on the
 specifics, and there are a lot of interdependencies between the software,
 hardware, and peripherals teams, but the choices have been greatly narrowed
 down.
+  
+- Alex Hermstad
 
 
 
