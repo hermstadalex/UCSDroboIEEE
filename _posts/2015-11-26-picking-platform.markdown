@@ -8,47 +8,49 @@ categories: jekyll update
 The team focused on determining which platform best fit the team's goals and
 proves that basic motor control can be accomplished. During practice #6, we
 consolidated each member's research for a platform and ultimately agreed upon
-the Navio+
+the Navio+ Raspberry Pi.
   
 ### Goals
 
 In order of importance:
 
 1. Basic I/o
-  - One fundamental goal was to have a vehicle that completed the track
+  * One fundamental goal was to have a vehicle that completed the track
    regardless of method or speed.
 2. GPS
+  * Once we accomplish basic mobility, our platform should utilize sensors and
+  software to maneuver around the obstacles.
 3. Machine Vision
+  * Machine vision could be implemented after GPS, which would both help
+  navigate obstacles, and do the challenges such as the hoop and ramp.
   
-#### Third Choice:
-Inforce6410
+#### *Third Choice*:
+The **Inforce6410** was notable for being powerful as far as processing power
+and speed. It also has literature on ROS implementation. It lacked documentation
+and initially it was not made for robotic vehicles. These factors made this
+controller an unsuitable fit for our team and project. 
   
-#### Second Choice:
-Erle-Brain 2
+#### *Second Choice*:
+The **Erle-Brain 2** was created to conquer the niche exposed by Beagle Bone
+Black auto-pilot platforms, ensuring that it meets basic I/O, easily integrates
+GPS+APM, and packs plenty of power for image processing. The downside tothe EB2
+is that the community is new. So if any bugs arise support would be difficult to
+find. Plus, its tailored header pins and connections could be a problem if used
+without specifically compatible hardware.
   
-#### Honorable Mention:
-Another option for a control platform would be the SnickeDoodle, due to its
-being small, powerful, compatible, and started by a community of makers. It
-features 179 I/O ports. Unfortunately it was still being funded via crowdsource.
-  
-My remaining top two suggestions were the Erle-Brain2 and BeagleBoneBlack. The
-EB2 was literally made to conquer the niche exposed by BBB auto-pilot platforms,
-so it meets basic I/o, easily integrates GPS+APM, and packs plenty of power for
-image processing. The only downside is that it's community is new, specific
-support was difficult to find, and there are bound to be bugs. Plus, it's
-tailored header pins and connections could be a problem if used without
-specifically compatible hardware (like last year's experience with the Pixhawk).
-  
-The BBB is an on-board computer meant for embedded applications. It's got plenty
-of I/O pins, full camera+openCV support, and much more expandable than the EB2
-through the use of capes. Unfortunately, most of its community migrated to the
-EB2, and the suggested GPS module must be hand soldered.
-  
-#### Final Decision: Navio+
-The team collective agree upon the Navio+ because it is more extensible and is a
+#### *Honorable Mention*:
+Another option for a control platform would be the **SnickeDoodle**, due to its 
+being small, powerful, compatible, and started by a community of makers. It 
+features 179 I/O ports, 2.4 and 5GHz WiFi, Bluetooth, 1GB of RAM, and an ARM
+Cortex A9. Unfortunately it was still in production at the time of our decision.
+ 
+#### *Final Decision: Navio+ Raspberry Pi*
+The team collectively agree upon the Navio+ because it is more extensible and is a
 better learning environment than Erle-Brain2 and Inforce6410. This would also
 mean that our skills gained from using the Raspberry Pi with Navio+ could be
-applied to hobbies outside of Robomagellan. In case of trouble
-shooting, there is vast online resources and documentation for many years. 
+applied to hobbies outside of Robomagellan. Additionally, as bugs arise,there is
+an extensive and well-documented community to help solve these issues. This will allow us to get a basic
+robot established early on in the process, allowing us to attempt more daring
+technological endeavors in the future of our project.
   
 \- Karina Nino
