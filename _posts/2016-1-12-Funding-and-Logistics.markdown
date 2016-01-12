@@ -62,7 +62,7 @@ As we do not yet have parts for the project, the discussions are still mostly in
 the planning stage, but these discussions are crucial to the success and
 fluidity of moving forward successfully. 
 
-- Alex Hermstad
+\- Alex Hermstad
 
 
 
