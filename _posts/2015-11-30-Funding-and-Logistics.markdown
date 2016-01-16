@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Practice #8: Funding and Project Logistics"
-date:   2015-11-30 23:29:13 -0800
+date:   2015-11-30
 categories: jekyll update
 ---
 

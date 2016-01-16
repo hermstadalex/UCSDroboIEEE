@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Practice #6: Platform Decisions"
-date:   2015-11-26 23:29:13 -0800
+date:   2015-11-26
 categories: jekyll update
 ---
 
