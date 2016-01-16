@@ -13,7 +13,7 @@ ___
 
 #### Project Leader, Software Sub-Team Member: Alexander Guthrie
 
-<img src="http://i.imgur.com/9ExgtyE.png" width="220px" height="220px"/>
+-><img src="http://i.imgur.com/9ExgtyE.png" width="220px" height="220px"/><-
 
 *Major: Electrical Engineering*
 
@@ -39,7 +39,7 @@ To help us complete our task, we've split our team into three main sub-teams:
 
 #### Alex Hermstad
 
-<img src="http://i.imgur.com/dte9vcc.png" width="220px" height="220px"/>
+-><img src="http://i.imgur.com/dte9vcc.png" width="220px" height="220px"/> <-
 
 *Major: Computer Science*
 
