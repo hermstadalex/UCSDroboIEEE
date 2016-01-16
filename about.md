@@ -11,7 +11,7 @@ our progress-taking note of our struggles and successes along the way.
 ___
 <br>
 
-<center>#### Project Leader: Alexander Guthrie </center>
+#### <center>Project Leader: Alexander Guthrie </center>
 
 <center><img src="http://i.imgur.com/9ExgtyE.png" width="220px"
 height="220px" align="center"/></center>
@@ -39,7 +39,7 @@ To help us complete our task, we've split our team into three main sub-teams:
 
 ## Software
 
-<center>#### Xinxin Chen </center>
+#### <center>Xinxin Chen </center>
 
 <center><img src="http://i.imgur.com/Owo40M1.png" width="220px"
 height="220px" align="center"/></center>
@@ -52,15 +52,16 @@ height="220px" align="center"/></center>
 
 <br>
 
-<center> #### Alex Hermstad </center>
+#### <center>Alex Hermstad </center>
 
 <center><img src="http://i.imgur.com/dte9vcc.png" width="220px"
-height="220px" align="center"/><center>
+height="220px" align="center"/></center>
 
 *Major: Computer Science*
 
 *Year: Third Year / First Year Transfer*
 ___
+
 <br>
 
 ## Hardware
