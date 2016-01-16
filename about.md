@@ -14,7 +14,7 @@ ___
 #### Project Leader: Alexander Guthrie
 
 <center>-><img src="http://i.imgur.com/9ExgtyE.png" width="220px"
-height="220px"/><- </center>
+height="220px" align="center"/><- </center>
 
 *Major: Electrical Engineering*
 
@@ -32,6 +32,7 @@ product development team, my experiences are the ever-changing product and
 everyone I interact with are the development team. What could be better than
 spending my life developing robots?
 
+___
 
 To help us complete our task, we've split our team into three main sub-teams:
 
@@ -41,12 +42,11 @@ To help us complete our task, we've split our team into three main sub-teams:
 #### Alex Hermstad
 
 <center>-><img src="http://i.imgur.com/dte9vcc.png" width="220px"
-height="220px"/> <- <center>
+height="220px" align="center"/> <- <center>
 
 *Major: Computer Science*
 
 *Year: Third Year / First Year Transfer*
-
 ___
 <br>
 
