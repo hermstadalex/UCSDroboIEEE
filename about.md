@@ -13,8 +13,8 @@ ___
 
 #### Project Leader: Alexander Guthrie
 
-<center>-><img src="http://i.imgur.com/9ExgtyE.png" width="220px"
-height="220px" align="center"/><- </center>
+<center><img src="http://i.imgur.com/9ExgtyE.png" width="220px"
+height="220px" align="center"/></center>
 
 *Major: Electrical Engineering*
 
@@ -34,15 +34,28 @@ spending my life developing robots?
 
 ___
 
+<br>
 To help us complete our task, we've split our team into three main sub-teams:
 
 ## Software
 
+#### Xinxin Chen
+
+<center><img src="http://i.imgur.com/Owo40M1.png" width="220px"
+height="220px" align="center"/></center>
+
+*Major: Electrical Engineering*
+
+*Year: Fourth Year*
+
+*Biography*: Start building autonomous driving machine!
+
+<br>
 
 #### Alex Hermstad
 
-<center>-><img src="http://i.imgur.com/dte9vcc.png" width="220px"
-height="220px" align="center"/> <- <center>
+<center><img src="http://i.imgur.com/dte9vcc.png" width="220px"
+height="220px" align="center"/><center>
 
 *Major: Computer Science*
 
