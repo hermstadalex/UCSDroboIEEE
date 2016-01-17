@@ -60,16 +60,71 @@ height="220px" align="center"/></center>
 *Major: Computer Science*
 
 *Year: Third Year / First Year Transfer*
-___
 
+*Biography*: I joined Robomagellan to get some hands-on experience with working
+with something that combined hardware and software. The idea of using
+programming to control a robot seemed like a fascinating idea to me, so I had to
+choose Robomagellan.
+
+#### <center>Wilfred Kwan</center>
+
+*Major: Electrical Engineering*
+
+*Year: Fourth Year*
+
+*Biography*: I joined Robomagellan because throughout school, I have learned
+about of theories and algorithms behind the topics of AI and computer vision. I
+thought it would be neat to see how these would apply to an actual hands-on
+project.
+
+___
 <br>
 
 ## Hardware
+
+#### <center>Jeffry Salazar</center>
+
+*Major: Electrical Engineering with Machine Learning and Power Electronics focus *
+
+*Year: Fourth Year*
+
+*Biography*: Work on a project where I can use my skills in machine learning and
+solid work skills for designing and realizing custom parts.
+
+
+
+#### <center>Sanil Gupta</center>
+
+<center><img src="http://i.imgur.com/KgPvXXp.png" width="220px"
+height="220px" align="center"/></center>
+
+*Major: Mechanical Engineering*
+
+*Year: First Year*
+
+*Biography*: I joined Robomagellan in order to gain first hand experience with
+real robotics. In high school I was heavily involved in FIRST competitions and
+wanted to continue my work with competitive robotics in college. Thus, I applied
+to the Robomagellan project as it combined by experience with hardware design
+and practical problem solving along with providing me an opportunity to gain
+exposure to a variety of areas I had no experience in before such as working
+with GPS and ultrasonic sensors. 
 
 
 ___
 <br>
 
 ## Peripherals
+
+#### <center>Karina Nino</center>
+
+*Major: Electrical Engineering*
+
+*Year: Third Year*
+
+*Biography*: Robomagellen is a great opportunity to learn and practice new
+skills. Robots have always been an interest of mine, so I'm get I get to pursue
+it. I also get to work on an awesome team.
+
 
 
