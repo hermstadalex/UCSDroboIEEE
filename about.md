@@ -66,6 +66,8 @@ with something that combined hardware and software. The idea of using
 programming to control a robot seemed like a fascinating idea to me, so I had to
 choose Robomagellan.
 
+<br>
+
 #### <center>Wilfred Kwan</center>
 
 *Major: Electrical Engineering*
@@ -84,14 +86,14 @@ ___
 
 #### <center>Jeffry Salazar</center>
 
-*Major: Electrical Engineering with Machine Learning and Power Electronics focus *
+*Major: Electrical Engineering with Machine Learning and Power Electronics Focus*
 
 *Year: Fourth Year*
 
 *Biography*: Work on a project where I can use my skills in machine learning and
 solid work skills for designing and realizing custom parts.
 
-
+<br>
 
 #### <center>Sanil Gupta</center>
 
@@ -126,5 +128,6 @@ ___
 skills. Robots have always been an interest of mine, so I'm get I get to pursue
 it. I also get to work on an awesome team.
 
+<br>
 
 
