@@ -41,7 +41,7 @@ height="220px" align="center"/></center>
 
 *Year: Fourth Year*
 
-*Biography*: Start building autonomous driving machine!
+*Biography*: I joined Robomagellan to start building an autonomous driving machine!
 
 <br>
 
@@ -83,7 +83,7 @@ ___
 
 *Year: Fourth Year*
 
-*Biography*: Work on a project where I can use my skills in machine learning and
+*Biography*: I joined Robomagellan to work on a project where I can use my skills in machine learning and
 solid work skills for designing and realizing custom parts.
 
 <br>
@@ -118,9 +118,37 @@ ___
 *Year: Third Year*
 
 *Biography*: Robomagellen is a great opportunity to learn and practice new
-skills. Robots have always been an interest of mine, so I'm get I get to pursue
+skills. Robots have always been an interest of mine, so I'm glad I get to pursue
 it. I also get to work on an awesome team.
 
 <br>
 
+#### <center>Christian Koguchi</center>
+
+<center><img src="http://i.imgur.com/6JYysj3.png" width="220px"
+height="220px" align="center"/></center>
+
+*Major: Electrical Engineering*
+
+*Year: Fourth Year*
+
+*Biography*: I joined Robomagellan to to hang out with the chilliest crew in
+UCSD.
+
+<br>
+
+#### <center>Alexander Yu</center>
+
+<center><img src="http://i.imgur.com/ED6tgRF.png" width="220px"
+height="220px" align="center"/></center>
+
+*Major: Electrical Engineering*
+
+*Year: Third Year*
+
+*Biography*: I joined Robomagellan because I liked the idea of the competition
+(creating an autonomous rover). I also wanted to gain experiencing working on a
+project of this scale with people that have similar interests/goals.
+
+<br>
 
