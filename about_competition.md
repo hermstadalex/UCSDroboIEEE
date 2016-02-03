@@ -12,6 +12,8 @@ our progress-taking note of our struggles and successes along the way.
 
 ### Autonomous Vehicle Competition
 
+<br>
+
 The Robomagellan project at UCSD is to build a self-driving car to compete in the Sparkfun
 hosted, Autonomous Vehicle Competition, or AVC. The detailed rules to the
 competition can be found at the Sparkfun website, located
