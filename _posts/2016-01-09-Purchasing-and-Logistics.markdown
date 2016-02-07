@@ -88,4 +88,4 @@ quarter.
         a WhenIsGood and deciding that weekly winter practices would be on
         Wednesdays.
 
-\- Alex Hermstad & Alec Guthrie
+\- Alex Hermstad & Alec Guthrie (February 4, 2016)
