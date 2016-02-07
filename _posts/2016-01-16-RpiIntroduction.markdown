@@ -62,4 +62,4 @@ rest of the team about the Rpi2 and our progress.
 
  
 
-\- Alex Hermstad & Alec Guthrie
+\- Alex Hermstad & Alec Guthrie (February 5, 2016)
