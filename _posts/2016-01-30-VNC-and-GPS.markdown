@@ -1,0 +1,118 @@
+﻿---
+date: "2016-01-30"
+layout: post
+categories: jekyll update
+title: "Practice #14: Setup GPS and VNC"
+---
+
+Updates
+-------
+
+-   More parts: The pinion gears arrived damaged
+
+-   Rpi2 case does not fit when the Navio+ is connected. Need a custom case
+    afterall.
+
+-   OpenCV fails to compile when issuing “make”
+
+-   Wilfred brought his Rpi2 (because SST’s Rpi would be busy compiling OpenCV)
+
+ 
+
+Daily Objectives
+----------------
+
+Today’s objectives were not predefined other than to continue working in
+sub-teams and maintain last practice’s momentum, so during the first 10 minutes
+of practice sub-teams defined their specific objectives. SST should continue
+troubleshooting OpenCV and ensure they learn to use SSH and VNC. PST should
+continue learning Mission Planner and work to get an accurate GPS reading. HST
+should diagnose missing pinion gears and work on the Rpi2/Navio+ custom case.
+
+ 
+
+Progress Reflection
+-------------------
+
+SST
+
+-   Since the busy Rpi2 was using the only monitor, Wilfred proposed learning
+    SSH. He found AngryIP as a solution to identify the dynamic IP of the Rpi
+    when connected via ethernet/RJ45 to the computer then SST used this tool and
+    successfully connected to the Rpi using SSH. With PST’s help everyone on SST
+    was also able to view the LXDE gui through the VNC protocol.
+
+-   Alex restarted the steps to make sure everything was installed correctly.
+    This time around python wasn't cooperating and apparently Raspbian needed to
+    be reinstalled. Alex worked on reinstalling Raspbian and then setting up an
+    OpenCV installation script. During 1/30/2016 rehearsa
+
+-   Wilfred and Clark looked at pin and power requirements for the Lidar sensor
+
+-   Alec looked at RDP to replace VNC and successfully connected to the Rpi2
+    desktop using XRDP and the windows remote desktop viewer client.
+
+PST
+
+-   Alexander and Chris found TightVNC as a VNC remote desktop viewing client.
+
+-   Alexander and Chris installed APM Planner 2.0, connected the Rpi2 to the
+    computer, ran an arp scan from the Rpi2 in order to find the ground station
+    software address, and observed inputs from the IMU using the interactive
+    flight data calibration screen.
+
+-   PST could not get a successful GPS fix during practice while working inside
+    the project space.
+
+-   Alexander and Chris finally submitted their written biographies for the team website.
+
+-   After practice, everyone thought we couldn't get the GPS to work. We sat
+    outside Jacobs and Alexander changed a FlightPlanner parameter, but the
+    coordinates stayed constant and over the Atlantic coast of Africa. Alexander
+    and Alec then went inside and noticed some coordinates were plotted just
+    outside Jacob's School. They changed the map update intervals and went
+    outside again. Standing by the grass Alexander and Alec noticed the system
+    connecting to satellites and so they started walking around Warren Hall. The
+    GPS maxed at 12 satellite fixes and then captured plenty \<5m accurate
+    coordinate points.
+
+![](<FirstGPSReadings.jpg>)
+
+![](<https://trello-attachments.s3.amazonaws.com/56a998505bc05d486bf0df3e/1920x1030/c422db5440cdfc78a1d70309dca0b7f2/APM_Planner_GPS_Fix.png>)
+
+HST
+
+-   Sanil and Jeffry observed the remaining pinion gears and determined that a
+    new pack was needed because pinion gears affect the power output from the
+    motors to the wheels. Jeffry ordered the second pack of pinion gears.
+
+-   The chassis was as completed as possible without the pinion gears, motor, or
+    battery.
+
+-   Sanil began measuring some chassis dimensions needed to design a peripherals
+    surface mount. The calipers needed coin batteries so those were purchased.
+
+-   With inspiration from Thingiverse Jeffry completed the Navio+/Rpi2 case
+    schematic.
+
+FST
+
+Alec added his receipts to the google document collection and then submitted
+both his and Wilfred's multiple receipts as two bulk requests.
+
+The bill of materials was updated.
+
+-   Current submitted and received reimbursements were checked off.
+
+-   Deleted encoders, hobby knife, and charger while adding the second pinion
+    gear order to reflect purchasing decisions.
+
+ 
+
+### Attendance
+
+Alec, Alex, Alexander, Chris, Clark, Jeffry, Sanil, Wilfred
+
+ 
+
+\- Alec Guthrie (February 6, 2016)
