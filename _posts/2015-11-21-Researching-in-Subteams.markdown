@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Practice #6: Researching in Sub-teams"
-date: 2015-21-09
+date: 2015-11-09
 categories: jekyll update
 ---
 
