@@ -7,7 +7,7 @@ categories: jekyll update
 
 Attendance: Alec, Alex, Alexander, Karina, Wilfred
 
-##Updates
+## Updates
 
 - New Orders: The properly fitting pinion gear was not ordered. We found one
   that came in the same package as the motor.

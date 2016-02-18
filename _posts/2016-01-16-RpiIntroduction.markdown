@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Practice #10: Funding and Tinkering"
-date: "2016-01-16"
+date: 2016-01-16
 categories: jekyll update
 ---
 
