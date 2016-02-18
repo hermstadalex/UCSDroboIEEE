@@ -10,8 +10,7 @@ spent communicating sub-team progress and working within sub-teams.
 
  
 
-Updates
--------
+## Updates
 
 Software
 
@@ -33,8 +32,7 @@ Fundraising
 
  
 
-Sub-team Work
--------------
+## Sub-team Work
 
 SST set themselves up and prepared to lead the exploration of the two Rpis.
 Karina as DST (the documentation sub-team) started T-shirt designs. HST
@@ -47,8 +45,7 @@ purchasing fewer Maxbotix Ultrasonic sensors.
 
  
 
-Raspberry Pi 2 Workshop
------------------------
+## Raspberry Pi 2 Workshop
 
 SST had planned to finish the workshop by performing very basic computer vision
 operations using openCV but setup was taking longer than expected. When the

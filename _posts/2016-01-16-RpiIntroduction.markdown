@@ -20,8 +20,7 @@ arrived. By Friday enough parts had arrived:
 
  
 
-Outreach and Fundraising
-------------------------
+## Outreach and Fundraising
 
 At the start of Saturday’s practice Christian as FST (the funding sub-team)
 informed everyone about multiple possible outreach opportunities
@@ -37,8 +36,7 @@ our project progresses further.
 
  
 
-Raspberry Pi Tinkering
-----------------------
+## Raspberry Pi Tinkering
 
 Next, SST (the software sub-team) and PST (the peripheral sub-team) began to
 familiarize themselves with the Rpis. Although there were two, only one was used
