@@ -1,13 +1,16 @@
 ---
 layout: post
 title:  "Practice #7: Picking a Chassis and Peripherals"
-date:   2015-11-29
+date:   2015-11-23
 categories: jekyll update
 ---
 
 During practice #7 on Monday, November 23, the hardware and peripherals teams
 discussed their ideas and thought processes for what type of chassis and sensors
-we should consider for our project.
+we should consider for our project. To help with the vagueness of the project
+and the progress, Alec distributed the first six practice's powerpoints. Karina
+also submitted Google Forms for people to submit their information for the
+website biographies.
 
 ## Chassis Selection
 
