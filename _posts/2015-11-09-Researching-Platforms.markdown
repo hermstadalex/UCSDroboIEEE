@@ -35,6 +35,7 @@ practice times. The platforms that we have considered include:
 
 If we run into a lack of I/O pins or the need for a simpler I/O platform, these
 are our current microcontroller choices:
+
 * Arduino
 * Parallax Propeller
 * ATmega16/162
