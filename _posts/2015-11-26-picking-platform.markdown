@@ -1,14 +1,19 @@
 ---
 layout: post
-title:  "Practice #6: Platform Decisions"
-date:   2015-11-26
+title:  "Practice #5: Platform Decisions"
+date:   2015-11-16
 categories: jekyll update
 ---
+
+[This Week's
+Powerpoint](https://docs.google.com/presentation/d/1lXwgx6CmjfgPG5dmoYTXs09DMjWjsoz3uhJZBkoQ8WQ/edit)
 
 The team focused on determining which platform best fit the team's goals and
 proves that basic motor control can be accomplished. During practice #6, we
 consolidated each member's research for a platform and ultimately agreed upon
-the Navio+ Raspberry Pi.
+the Navio+ Raspberry Pi. In addition to the choice of this platform, sub-teams
+were also assigned in according to a Software, Peripherals, Hardware, as well as
+Documentation tasks to help complete the project in a more efficient manner.
   
 ### Goals
 
@@ -23,6 +28,10 @@ In order of importance:
 3. Machine Vision
   * Machine vision could be implemented after GPS, which would both help
   navigate obstacles, and do the challenges such as the hoop and ramp.
+
+Here is a table with links to the proof of application for each platform in
+terms of the above goals:
+[Table](https://docs.google.com/document/d/1b8Je1e7etTIbmG10YwVUiDANtwDea94KqdYbaGUoQ6s/edit)
   
 #### *Third Choice*:
 The **Inforce6410** was notable for being powerful as far as processing power
