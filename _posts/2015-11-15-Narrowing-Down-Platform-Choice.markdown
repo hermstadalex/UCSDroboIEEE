@@ -23,6 +23,7 @@ computer.
 ## Daily Objectives:
 [Pratice's
 Powerpoint](https://docs.google.com/presentation/d/1Vd7GRl5eWh0uci9uSAD_STtZdWhhNBF9mCnDkbRHZ8M/edit?usp=sharing)
+
 Today’s practice will start with Alec sharing Jianfeng’s knowledge about
 applying machine vision using embedded computers. Then we will reiterate our
 project goals, have each member pitch the pro's and con's of their researched
