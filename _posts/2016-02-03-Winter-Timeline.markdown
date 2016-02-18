@@ -1,5 +1,5 @@
 ---
-date: "2016-02-03"
+date: 2016-02-03
 layout: post
 categories: jekyll update
 title: "Practice #15: Establishing a Winter Quarter Timeline"

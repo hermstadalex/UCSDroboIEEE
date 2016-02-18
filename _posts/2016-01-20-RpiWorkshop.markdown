@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Practice #11: Raspberry Pi 2 Workshop"
-date: "2016-01-20"
+date: 2016-01-20
 categories: jekyll update
 ---
 

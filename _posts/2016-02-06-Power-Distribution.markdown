@@ -1,5 +1,5 @@
 ﻿---
-date: "2016-02-06"
+date: 2016-02-06
 layout: post
 categories: jekyll update
 title: "Practice #16: Research Power Distribution and Sensor Integration Through Navio+"

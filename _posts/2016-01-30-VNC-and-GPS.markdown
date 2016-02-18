@@ -1,5 +1,5 @@
 ﻿---
-date: "2016-01-30"
+date: 2016-01-30
 layout: post
 categories: jekyll update
 title: "Practice #14: Setup GPS and VNC"
