@@ -1,8 +1,8 @@
 ﻿---
-date: 2016-02-10
 layout: post
+title: "Practice #17: Continuing Work on the Chassis"
+date: 2016-02-10
 categories: jekyll update
-title: "Practice #17: Continuing Work on the Chassis
 ---
 
 Updates

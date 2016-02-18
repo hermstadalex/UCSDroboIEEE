@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Practice #7: Picking a Chassis and Peripherals"
-date:   2015-11-23
+title: "Practice #7: Picking a Chassis and Peripherals"
+date: 2015-11-23
 categories: jekyll update
 ---
 
