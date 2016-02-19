@@ -1,15 +1,8 @@
 ---
-layout: post
-title: "Practice #7: Picking a Chassis and Peripherals"
-date: 2015-11-23
-categories: jekyll update
----
-
----
-date: "2016-01-20"
-layout: post
-categories: jekyll update
 title: "Practice #11: Raspberry Pi 2 Workshop"
+date: 2016-01-20
+layout: post
+categories: jekyll update
 ---
 
 This practice served primarily as a Raspberry Pi 2 Workshop but time was also

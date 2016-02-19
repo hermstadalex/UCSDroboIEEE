@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Practice #1: Introductions and Planning"
 date: 2015-11-02
+layout: post
 categories: jekyll update
 ---
 
