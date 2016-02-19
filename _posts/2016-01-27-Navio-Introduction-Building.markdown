@@ -1,5 +1,5 @@
 ---
-title: "Practice #13: Raspberry Pi 2 Tinkering"
+title: "Practice #13: Navio+ Introduction and Building"
 date: 2016-01-27
 layout: post
 categories: jekyll update
