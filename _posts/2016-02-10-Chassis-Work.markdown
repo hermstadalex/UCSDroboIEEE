@@ -21,7 +21,7 @@ Updates
    * A pack of 5pair XT60 connectors were purchased to solder onto every module
      in the power system once the makeshift solution stops working.
 
-- ** Website: ** The most recent practice summaries are now live on the website.
+- **Website:** The most recent practice summaries are now live on the website.
   Alec didn’t push them to the git repository correctly so they have formatting
   errors with the title and do not properly show images within the host
 directory.
@@ -36,9 +36,9 @@ about the sensor pin outs of the Navio+
 Progress Reflection
 -------------------
 
-** Software: **
+**Software:**
 
-** Hardware: **
+**Hardware:**
 
 * Alec and Alex continued building the chassis from step G3 where Jeffry had
   left off. They fastened on the servo with difficulty while learning the
@@ -50,7 +50,7 @@ motor shaft (5mm.) As a side note, the motor cannot be installed unless the
 servo tierod is temporarily removed to make room. Next Alec tried to solder the
 ESC wires to the motor leads, but he couldn’t find the solder.
 
-** Peripherals: **
+**Peripherals:**
 
 * Alexander tried to make receiver work, but no power to receiver. Tried to
   power from controller but it wasn’t enough power. Voltmeter difference when
