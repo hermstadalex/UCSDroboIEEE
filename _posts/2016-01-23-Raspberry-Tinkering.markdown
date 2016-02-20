@@ -17,6 +17,11 @@ Jeffry had been coming into the Project Space on his own time during the week
 before and had built most of the chassis skeleton leaving only wheels, servo,
 motor, and power to be added.
 
+![alt
+text](https://lh6.googleusercontent.com/3N0oj4y2ZCx7SqddZMIiAYQ_T2nbdeSya4kxas8Xc0cy8ZONLsxYhNz0CGTdWfUyj9KuVQ=w1816-h851
+"Logo Title Text 1")
+
+
  
 
 ### Attendance

@@ -31,6 +31,12 @@ Fundraising
 
     -   We will probably need flyers and t-shirts to fundraise
 
+Below is a possible design for the t-shirts:
+
+![alt
+text](https://lh3.googleusercontent.com/dvKZu7EDxNNUpranAOjJR1HCH1apQbmij_utBSzn7MbPoHZslYy5D0ZBuOL_g7T8tK6IGA=w1816-h851
+"Logo Title Text 1")
+
  
 
 Sub-team Work
