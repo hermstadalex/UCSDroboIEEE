@@ -54,6 +54,12 @@ features 179 I/O ports, 2.4 and 5GHz WiFi, Bluetooth, 1GB of RAM, and an ARM
 Cortex A9. Unfortunately it was still in production at the time of our decision.
  
 #### *Final Decision: Navio+ Raspberry Pi*
+
+![alt
+text](https://lh4.googleusercontent.com/gn8g--tgTYxm9wAS3GXbvuXhUj2x2ERPPDu9_Za-JN82OHb6t59RJJrYHjzxB_wV6xsrfA=w1816-h851
+"Logo Title Text 1")
+
+
 The team collectively agree upon the Navio+ because it is more extensible and is a
 better learning environment than Erle-Brain2 and Inforce6410. This would also
 mean that our skills gained from using the Raspberry Pi with Navio+ could be
