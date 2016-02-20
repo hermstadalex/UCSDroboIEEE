@@ -12,6 +12,11 @@ makeshift bill of materials with their thorough parts lists, parts were supposed
 to be ordered, and website bios were expected to be online. Progress was made
 for each of these objectives during practice \#9:
 
+![alt
+text](https://lh6.googleusercontent.com/3ql9bcbZIifWtvC5CihBzxDSjlFNftLizz7gyWS9Qkz2oogpWIAVR40HJdhqaYPP9HuKrQ=w1816-h851
+"Logo Title Text 1")
+
+
 * **Bill of materials**:
     The software bill of materials was practically identical to the makeshift
     bill of materials; the entire software sub-team decided only to include a
