@@ -35,8 +35,8 @@ To help us complete our task, we've split our team into three main sub-teams:
 
 #### <center>Xinxin Chen </center>
 
-<center><img src="http://i.imgur.com/Owo40M1.png" width="220px"
-height="220px" align="center"/></center>
+<center><img src="http://i.imgur.com/Owo40M1.png" width="210px"
+height="277px" align="center"/></center>
 
 *Major: Electrical Engineering*
 
@@ -84,8 +84,9 @@ ___
 #### <center>Jeffry Salazar</center>
 
 <center><img
-src="https://lh5.googleusercontent.com/F4vQ2y1WeLoUlOItozUySY8-sdzzQRRdNnl0HEXOwpnk-tmNkAsFEXYM2xlxF8Qslcrnhw=w1816-h851" width="220px"
-height="220px" align="center"/></center>
+src="https://lh5.googleusercontent.com/F4vQ2y1WeLoUlOItozUySY8-sdzzQRRdNnl0HEXOwpnk-tmNkAsFEXYM2xlxF8Qslcrnhw=w1816-h851"
+width="210px"
+height="277px" align="center"/></center>
 
 *Major: Electrical Engineering with Machine Learning and Power Electronics Focus*
 
@@ -122,8 +123,8 @@ ___
 #### <center>Karina Nino</center>
 
 <center><img
-src="https://lh6.googleusercontent.com/k4y0gvguf2SHpSPbP6DXTnm2ooYq_170G9toSYNZmzzwiH9Tj4K-cb89wsDipgJQj33SOg=w1831-h851" width="220px"
-height="220px" align="center"/></center>
+src="https://lh6.googleusercontent.com/k4y0gvguf2SHpSPbP6DXTnm2ooYq_170G9toSYNZmzzwiH9Tj4K-cb89wsDipgJQj33SOg=w1831-h851" width="210px"
+height="277px" align="center"/></center>
 
 *Major: Electrical Engineering*
 
