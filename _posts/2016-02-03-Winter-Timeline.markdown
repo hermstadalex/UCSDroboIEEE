@@ -40,7 +40,10 @@ build, integrate Rpi2/Navio+, prepare GPS run. The rest of the team proposed
 steps to complete each of the three objectives and Alexander clarified their
 relative priority. The resulting timeline:
 
-![](<WinterTimeline.jpg>)
+![alt
+text](https://lh5.googleusercontent.com/k8GtaiWuFKbokgqLTJePwPSVHilSmWFuVD9HnrCYTrXRylB0nfbSz_PVQrXL4ZCu6QZq-w=w1816-h851
+"Logo Title Text 1")
+
 
 ### And its Gantt chart: <https://docs.google.com/spreadsheets/d/1CHoFJT1kt2SYMFVhdmkdz5NCH7j40_VRJ2q7BtAex7E/edit?usp=sharing>
 
