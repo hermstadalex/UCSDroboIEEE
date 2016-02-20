@@ -33,6 +33,11 @@ develop weekly plans to achieve those goals.
    
 ## Progress Reflection:
 
+![alt
+text](https://lh5.googleusercontent.com/FVq_2ytiCQi5RqbmJI8QIXSeAV-ktqE-s9LXwgysu5b86UoDbphzftqNr7Ois0egB-7PHQ=w1816-h851
+"Logo Title Text 1")
+
+
    We started by updating the platform research document by adding the
 Inforce6410 Plus and DragonBoard 410C and removing the simpler microcontrollers.
 Since some of the team was missing we decided not to make the platform decision,
