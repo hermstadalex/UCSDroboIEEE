@@ -7,6 +7,11 @@ categories: jekyll update
 
 Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
 
+![alt
+text](https://lh5.googleusercontent.com/4sYG8J_DqtPTC-45g2ZKCpWzlhxMoC9C1J0YO9Qc1WyD2XAZ4S3SKa4WxZPzWPXMXHZp6Q=w1816-h851
+"Logo Title Text 1")
+
+
 ## Updates
 
 * Ian forms the IEEE Robomagellan 2016 team with nine members including Alec as
