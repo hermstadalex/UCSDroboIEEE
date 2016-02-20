@@ -25,6 +25,11 @@ from the fact that this would allow us to do parallel development on each
 platoform, and if something went wrong with one, we would have a backup ready
 for use. 
 
+![alt
+text](https://lh3.googleusercontent.com/l_R8psZh8_FYRDMJ_de68arFjONT1JDk9qwPSENrwa4VJYAZKQC3-vTPsWaEdHsGqeoDkA=w1816-h851
+"Logo Title Text 1")
+
+
 ## Travel Logistics
 
 With a limited amount of funding, our aim as a team was to keep the vehicle cost
