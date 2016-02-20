@@ -44,6 +44,6 @@ into:
 As the 2016 Robomagellan team, we have decided to place ourselves in the Doping
 class.
 
-Note that all of the above information is based off of the rules for the 2015
+Note: All of the above information is based off of the rules for the 2015
 AVC event. The rules may differ moving into the 2016 event, but it should be
 safe to assume that they will be similar if not identical.
