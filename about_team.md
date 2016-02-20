@@ -7,9 +7,9 @@ permalink: /about_team/
 #### <center>Project Leader: Alexander Guthrie </center>
 
 <center><img
-src="https://lh4.googleusercontent.com/l7kM-ZFeqRfxiXx8Q8unilO0oy4VGE-2Rh78ZSpLqncD0LBmOBB9HWElIZmHObucjztP2Q=w1831-h851"
-width="210px"
-height="277px" align="center"/></center>
+src="http://i.imgur.com/ET8xoP3.jpg?1"
+width="200px"
+height="266px" align="center"/></center>
 
 *Major: Electrical Engineering*
 
@@ -85,9 +85,9 @@ ___
 #### <center>Jeffry Salazar</center>
 
 <center><img
-src="https://lh5.googleusercontent.com/F4vQ2y1WeLoUlOItozUySY8-sdzzQRRdNnl0HEXOwpnk-tmNkAsFEXYM2xlxF8Qslcrnhw=w1816-h851"
-width="210px"
-height="277px" align="center"/></center>
+src="http://i.imgur.com/KkPPMip.jpg?1"
+width="200px"
+height="266px" align="center"/></center>
 
 *Major: Electrical Engineering with Machine Learning and Power Electronics Focus*
 
@@ -124,8 +124,9 @@ ___
 #### <center>Karina Nino</center>
 
 <center><img
-src="https://lh6.googleusercontent.com/k4y0gvguf2SHpSPbP6DXTnm2ooYq_170G9toSYNZmzzwiH9Tj4K-cb89wsDipgJQj33SOg=w1831-h851" width="210px"
-height="277px" align="center"/></center>
+src="http://i.imgur.com/vNHKQrA.jpg?1"
+width="200px"
+height="266px" align="center"/></center>
 
 *Major: Electrical Engineering*
 
