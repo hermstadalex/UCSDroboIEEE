@@ -30,6 +30,11 @@ troubleshooting OpenCV and ensure they learn to use SSH and VNC. PST should
 continue learning Mission Planner and work to get an accurate GPS reading. HST
 should diagnose missing pinion gears and work on the Rpi2/Navio+ custom case.
 
+![alt
+text](https://lh6.googleusercontent.com/cZYCAgp0kpcbBnipBEBlEok4--BxUkqzclV0RmziotVP_M0KdqyIKPywu3f7AWipu3DozQ=w1816-h851
+"Logo Title Text 1")
+
+
  
 
 Progress Reflection
@@ -77,8 +82,6 @@ PST
     connecting to satellites and so they started walking around Warren Hall. The
     GPS maxed at 12 satellite fixes and then captured plenty \<5m accurate
     coordinate points.
-
-![](<FirstGPSReadings.jpg>)
 
 ![](<https://trello-attachments.s3.amazonaws.com/56a998505bc05d486bf0df3e/1920x1030/c422db5440cdfc78a1d70309dca0b7f2/APM_Planner_GPS_Fix.png>)
 
