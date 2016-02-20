@@ -55,6 +55,11 @@ HST
     step-by-step guide.
 
 -   Improvised their first power distribution schematic:
+    
+    ![alt
+text](https://lh4.googleusercontent.com/HAml0Va10Hd6fJ8nydBTGoCt7r8qF6BkRsY-vT0YFrKHjJvwpDmth1qBLb-iC0Xz5M35NA=w1816-h851
+"Logo Title Text 1")
+
 
 -   Watched [an informational RC power
     video](<A%20good%20summary%20of%20necessary%20components%20in%20RC%20power%20distribution:%20https://www.youtube.com/watch?v=DraFgiDELjI>)
