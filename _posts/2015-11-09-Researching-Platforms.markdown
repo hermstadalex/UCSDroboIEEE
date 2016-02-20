@@ -13,6 +13,11 @@ Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
 
 ## Daily Objectives:
 
+![alt
+text](https://lh6.googleusercontent.com/3UFrDE40szRC88XJOZbEzxj9SHtKB7EvzqrjT_hhXUx0duKzUAvn1tVKHplXqLxtjTXrPw=w1816-h851
+"Logo Title Text 1")
+
+
 Today’s practice will start with Alec sharing Oren’s knowledge about choosing a
 control platform. The rest of practice will be used to continue researching
 control platforms appropriate for the AVC competition.
