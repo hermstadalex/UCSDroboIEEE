@@ -33,6 +33,13 @@ goals, analyze AVC for the best competition strategy, as well as research past
 AVC entrants' designs to help model our own design strategies.
    
 ## Progress Reflection:
+
+![alt
+text](https://lh6.googleusercontent.com/aS9JT2bPqd0SLBeo_nX7nF3Ox-BLJNCAh2IAxvLwwZ9WIA5TjdR5BHY8kkEi7fsONIZDrw=w1816-h851
+"Logo Title Text 1")
+
+
+
 With an [Agile](http://www.adfkickstart.com/agile-methodology) development
 philosophy in mind, and application similar to [Feature Driven
 Development](http://www.step-10.com/SoftwareProcess/FeatureDrivenDevelopment/),
