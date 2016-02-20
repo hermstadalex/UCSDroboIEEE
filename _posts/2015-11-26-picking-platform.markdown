@@ -26,7 +26,7 @@ In order of importance:
   * Once we accomplish basic mobility, our platform should utilize sensors and
   software to maneuver around the obstacles.
 3. Machine Vision
-  * Machine vision could be implemented after GPS, which would both help
+  * Machine vision could be implemented after GPS. This would both help
   navigate obstacles, and do the challenges such as the hoop and ramp.
 
 Here is a table with links to the proof of application for each platform in
