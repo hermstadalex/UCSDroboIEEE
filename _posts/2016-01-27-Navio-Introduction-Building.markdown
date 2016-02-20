@@ -34,6 +34,11 @@ SSH protocol. Karina also finalized here T-shirt design ideas.
 
 HST Jeffry installed all four wheels onto the chassis and mounted the servo.
 
+![alt
+text](https://lh5.googleusercontent.com/F4vQ2y1WeLoUlOItozUySY8-sdzzQRRdNnl0HEXOwpnk-tmNkAsFEXYM2xlxF8Qslcrnhw=w1816-h851
+"Logo Title Text 1")
+
+
  
 
 ### Attendance
