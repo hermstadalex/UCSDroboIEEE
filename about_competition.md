@@ -22,7 +22,7 @@ width="585px" height="253px" align="center" style="padding:10px" />
 The Robomagellan project at UCSD is to build a self-driving car to compete in the Sparkfun
 hosted, Autonomous Vehicle Competition, or AVC. The detailed rules to the
 competition can be found at the Sparkfun website, located
-[here](https://avc.sparkfun.com/2015/rules). In general, the competition
+<a href="https://avc.sparkfun.com/2015/rules">here</a>. In general, the competition
 involves navigating a completely autonomous vehicle around four waypoints,
 finishing the course in under five minutes. To add to this, points are awarded
 for navigating through some obstacles including a hoop, a barrel, and a ramp.
