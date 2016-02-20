@@ -56,6 +56,11 @@ input and ground.
 but was very insignificant (0.2 V). Schematics for hooking up sensors to
 computer.
 
+![alt
+text](https://lh5.googleusercontent.com/CZw4KGPk4Lbsq-7Ae8jfbBsqb4bazCHNGJSB7X5yhBO7iFqsDnYZmu8Mjo69iS8dsoYFfg=w1816-h851
+"Logo Title Text 1")
+
+
 
 **Hardware:**
 
