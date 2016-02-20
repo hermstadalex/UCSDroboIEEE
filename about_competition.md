@@ -10,11 +10,12 @@ our progress-taking note of our struggles and successes along the way.
 
 ***
 
-### Autonomous Vehicle Competition
+### <center>Autonomous Vehicle Competition</center>
 
 <center>
 <img
-src="https://dlnmh9ip6v2uc.cloudfront.net/assets/0/e/6/7/c/512b8e93ce395f690f000000.jpg?width=600" width="585px" height="253px" align="center" />
+src="https://dlnmh9ip6v2uc.cloudfront.net/assets/0/e/6/7/c/512b8e93ce395f690f000000.jpg?width=600"
+width="585px" height="253px" align="center" style="padding:10px" />
 </center>
 
 The Robomagellan project at UCSD is to build a self-driving car to compete in the Sparkfun
