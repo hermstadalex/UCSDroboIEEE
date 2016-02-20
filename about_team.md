@@ -7,8 +7,9 @@ permalink: /about_team/
 #### <center>Project Leader: Alexander Guthrie </center>
 
 <center><img
-src="https://lh4.googleusercontent.com/l7kM-ZFeqRfxiXx8Q8unilO0oy4VGE-2Rh78ZSpLqncD0LBmOBB9HWElIZmHObucjztP2Q=w1831-h851" width="220px"
-height="220px" align="center"/></center>
+src="https://lh4.googleusercontent.com/l7kM-ZFeqRfxiXx8Q8unilO0oy4VGE-2Rh78ZSpLqncD0LBmOBB9HWElIZmHObucjztP2Q=w1831-h851"
+width="210px"
+height="277px" align="center"/></center>
 
 *Major: Electrical Engineering*
 
@@ -35,8 +36,8 @@ To help us complete our task, we've split our team into three main sub-teams:
 
 #### <center>Xinxin Chen </center>
 
-<center><img src="http://i.imgur.com/Owo40M1.png" width="210px"
-height="277px" align="center"/></center>
+<center><img src="http://i.imgur.com/Owo40M1.png" width="220px"
+height="220px" align="center"/></center>
 
 *Major: Electrical Engineering*
 
