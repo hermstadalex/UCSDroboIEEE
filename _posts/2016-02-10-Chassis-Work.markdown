@@ -50,6 +50,11 @@ motor shaft (5mm.) As a side note, the motor cannot be installed unless the
 servo tierod is temporarily removed to make room. Next Alec tried to solder the
 ESC wires to the motor leads, but he couldn’t find the solder.
 
+![alt
+text](https://lh5.googleusercontent.com/fZZZzzTvWxwLNRmlMNLO0Ji_kGedZZc3KxC8MBZj2E22h2wqxsNBCleme3X11p51S61uzA=w1816-h851
+"Logo Title Text 1")
+
+
 **Peripherals:**
 
 * Alexander tried to make receiver work, but no power to receiver. Tried to
