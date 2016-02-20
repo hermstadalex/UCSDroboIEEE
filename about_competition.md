@@ -14,7 +14,7 @@ our progress-taking note of our struggles and successes along the way.
 
 <center>
 <img
-src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjgyKChm4fLAhVN42MKHWzrBAYQjRwIBw&url=http%3A%2F%2Fdiydrones.com%2Fprofiles%2Fblogs%2Favc-2013-info-has-been-posted&psig=AFQjCNE-i40n-yaYeyn_U0N866u0nyKAhw&ust=1456087624459579"
+src=""
 style="width:585px height:253px" align="center"
 />
 </center>
