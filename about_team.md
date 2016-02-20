@@ -6,7 +6,8 @@ permalink: /about_team/
 
 #### <center>Project Leader: Alexander Guthrie </center>
 
-<center><img src="http://i.imgur.com/9ExgtyE.png" width="220px"
+<center><img
+src="https://lh4.googleusercontent.com/l7kM-ZFeqRfxiXx8Q8unilO0oy4VGE-2Rh78ZSpLqncD0LBmOBB9HWElIZmHObucjztP2Q=w1831-h851" width="220px"
 height="220px" align="center"/></center>
 
 *Major: Electrical Engineering*
@@ -63,6 +64,9 @@ choose Robomagellan.
 
 #### <center>Wilfred Kwan</center>
 
+<center><img src="http://i.imgur.com/0CA89zC.png" width="220px"
+height="220px" align="center"/></center>
+
 *Major: Electrical Engineering*
 
 *Year: Fourth Year*
@@ -78,6 +82,10 @@ ___
 ## Hardware
 
 #### <center>Jeffry Salazar</center>
+
+<center><img
+src="https://lh5.googleusercontent.com/F4vQ2y1WeLoUlOItozUySY8-sdzzQRRdNnl0HEXOwpnk-tmNkAsFEXYM2xlxF8Qslcrnhw=w1816-h851" width="220px"
+height="220px" align="center"/></center>
 
 *Major: Electrical Engineering with Machine Learning and Power Electronics Focus*
 
@@ -112,6 +120,10 @@ ___
 ## Peripherals
 
 #### <center>Karina Nino</center>
+
+<center><img
+src="https://lh6.googleusercontent.com/k4y0gvguf2SHpSPbP6DXTnm2ooYq_170G9toSYNZmzzwiH9Tj4K-cb89wsDipgJQj33SOg=w1831-h851" width="220px"
+height="220px" align="center"/></center>
 
 *Major: Electrical Engineering*
 
