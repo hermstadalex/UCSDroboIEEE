@@ -26,7 +26,7 @@ platoform, and if something went wrong with one, we would have a backup ready
 for use. 
 
 ![alt
-text](https://lh3.googleusercontent.com/l_R8psZh8_FYRDMJ_de68arFjONT1JDk9qwPSENrwa4VJYAZKQC3-vTPsWaEdHsGqeoDkA=w1816-h851
+text](http://i.imgur.com/VhSRh9k.jpg
 "Logo Title Text 1")
 
 

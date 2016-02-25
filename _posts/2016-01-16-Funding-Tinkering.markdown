@@ -40,6 +40,10 @@ our project progresses further.
 Raspberry Pi Tinkering
 ----------------------
 
+![alt
+text](http://i.imgur.com/G6CZdvM.jpg
+"Logo Title Text 1")
+
 Next, SST (the software sub-team) and PST (the peripheral sub-team) began to
 familiarize themselves with the Rpis. Although there were two, only one was used
 because there was only one monitor in the Project Space. We had assumed that the

@@ -14,7 +14,7 @@ Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
 ## Daily Objectives:
 
 ![alt
-text](https://lh6.googleusercontent.com/3UFrDE40szRC88XJOZbEzxj9SHtKB7EvzqrjT_hhXUx0duKzUAvn1tVKHplXqLxtjTXrPw=w1816-h851
+text](http://i.imgur.com/XZNzd0t.png
 "Logo Title Text 1")
 
 

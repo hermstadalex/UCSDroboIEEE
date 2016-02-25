@@ -51,7 +51,7 @@ servo tierod is temporarily removed to make room. Next Alec tried to solder the
 ESC wires to the motor leads, but he couldn’t find the solder.
 
 ![alt
-text](https://lh5.googleusercontent.com/fZZZzzTvWxwLNRmlMNLO0Ji_kGedZZc3KxC8MBZj2E22h2wqxsNBCleme3X11p51S61uzA=w1816-h851
+text](http://i.imgur.com/RvpCOfA.jpg
 "Logo Title Text 1")
 
 

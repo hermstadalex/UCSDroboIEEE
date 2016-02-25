@@ -41,7 +41,7 @@ steps to complete each of the three objectives and Alexander clarified their
 relative priority. The resulting timeline:
 
 ![alt
-text](https://lh5.googleusercontent.com/k8GtaiWuFKbokgqLTJePwPSVHilSmWFuVD9HnrCYTrXRylB0nfbSz_PVQrXL4ZCu6QZq-w=w1816-h851
+text](http://i.imgur.com/ztJthY6.jpg
 "Logo Title Text 1")
 
 

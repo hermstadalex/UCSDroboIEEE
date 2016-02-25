@@ -8,7 +8,7 @@ categories: jekyll update
 Attendance: Alec, Alex, Alexander, Chris, Clark, Jeffry, Karina, Sanil, Wilfred
 
 ![alt
-text](https://lh4.googleusercontent.com/DREIyzDLUGQlVFjPqIFhKgrpvNrglJReT28K2RpRRvqhKWD7kQFnfLGYnlaU4m-WfomY1g=w1816-h851
+text](http://i.imgur.com/8YmJkTA.jpg
 "Logo Title Text 1")
 
 

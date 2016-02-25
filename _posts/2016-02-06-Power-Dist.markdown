@@ -56,8 +56,8 @@ HST
 
 -   Improvised their first power distribution schematic:
     
-    ![alt
-text](https://lh4.googleusercontent.com/HAml0Va10Hd6fJ8nydBTGoCt7r8qF6BkRsY-vT0YFrKHjJvwpDmth1qBLb-iC0Xz5M35NA=w1816-h851
+![alt
+text](http://i.imgur.com/U5qHzwW.jpg
 "Logo Title Text 1")
 
 

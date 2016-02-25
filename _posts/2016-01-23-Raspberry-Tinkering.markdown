@@ -18,7 +18,7 @@ before and had built most of the chassis skeleton leaving only wheels, servo,
 motor, and power to be added.
 
 ![alt
-text](https://lh6.googleusercontent.com/3N0oj4y2ZCx7SqddZMIiAYQ_T2nbdeSya4kxas8Xc0cy8ZONLsxYhNz0CGTdWfUyj9KuVQ=w1816-h851
+text](http://i.imgur.com/iY8OsJL.png
 "Logo Title Text 1")
 
 

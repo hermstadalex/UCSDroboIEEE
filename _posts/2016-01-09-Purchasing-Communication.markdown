@@ -13,7 +13,7 @@ to be ordered, and website bios were expected to be online. Progress was made
 for each of these objectives during practice \#9:
 
 ![alt
-text](https://lh6.googleusercontent.com/3ql9bcbZIifWtvC5CihBzxDSjlFNftLizz7gyWS9Qkz2oogpWIAVR40HJdhqaYPP9HuKrQ=w1816-h851
+text](http://i.imgur.com/bIL6dyF.jpg
 "Logo Title Text 1")
 
 

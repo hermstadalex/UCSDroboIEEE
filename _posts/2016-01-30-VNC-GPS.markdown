@@ -31,7 +31,7 @@ continue learning Mission Planner and work to get an accurate GPS reading. HST
 should diagnose missing pinion gears and work on the Rpi2/Navio+ custom case.
 
 ![alt
-text](https://lh6.googleusercontent.com/cZYCAgp0kpcbBnipBEBlEok4--BxUkqzclV0RmziotVP_M0KdqyIKPywu3f7AWipu3DozQ=w1816-h851
+text](http://i.imgur.com/6IVRAXa.jpg
 "Logo Title Text 1")
 
 

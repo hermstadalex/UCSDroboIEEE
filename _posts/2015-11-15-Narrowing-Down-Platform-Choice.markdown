@@ -34,7 +34,7 @@ develop weekly plans to achieve those goals.
 ## Progress Reflection:
 
 ![alt
-text](https://lh5.googleusercontent.com/FVq_2ytiCQi5RqbmJI8QIXSeAV-ktqE-s9LXwgysu5b86UoDbphzftqNr7Ois0egB-7PHQ=w1816-h851
+text](http://i.imgur.com/XZNzd0t.png
 "Logo Title Text 1")
 
 

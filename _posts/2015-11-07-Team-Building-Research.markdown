@@ -35,7 +35,7 @@ AVC entrants' designs to help model our own design strategies.
 ## Progress Reflection:
 
 ![alt
-text](https://lh6.googleusercontent.com/aS9JT2bPqd0SLBeo_nX7nF3Ox-BLJNCAh2IAxvLwwZ9WIA5TjdR5BHY8kkEi7fsONIZDrw=w1816-h851
+text](http://i.imgur.com/boOPXSh.png
 "Logo Title Text 1")
 
 

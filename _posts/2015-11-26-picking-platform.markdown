@@ -56,7 +56,7 @@ Cortex A9. Unfortunately it was still in production at the time of our decision.
 #### *Final Decision: Navio+ Raspberry Pi*
 
 ![alt
-text](https://lh4.googleusercontent.com/gn8g--tgTYxm9wAS3GXbvuXhUj2x2ERPPDu9_Za-JN82OHb6t59RJJrYHjzxB_wV6xsrfA=w1816-h851
+text](http://i.imgur.com/p1A1jy0.png
 "Logo Title Text 1")
 
 

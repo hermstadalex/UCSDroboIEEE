@@ -34,7 +34,7 @@ Fundraising
 Below is a possible design for the t-shirts:
 
 ![alt
-text](https://lh3.googleusercontent.com/dvKZu7EDxNNUpranAOjJR1HCH1apQbmij_utBSzn7MbPoHZslYy5D0ZBuOL_g7T8tK6IGA=w1816-h851
+text](http://i.imgur.com/lzijojQ.png
 "Logo Title Text 1")
 
  
