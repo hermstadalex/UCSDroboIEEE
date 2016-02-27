@@ -5,8 +5,6 @@ layout: post
 categories: jekyll update
 ---
 
-Attendance: Alec, Alex, Alexander, Chris, Jeffry
-
 ## Updates
 
 - New orders: Alec and Wilfred planned to finish the chassis with the discovered
@@ -72,6 +70,9 @@ problems were unresolved and the RC controller remained unprogrammed.
 
 
 **Hardware:**
+
+
+Attendance: Alec, Alex, Alexander, Chris, Jeffry
 
 
 \- Alec Guthrie (February 6, 2016)

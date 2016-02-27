@@ -5,8 +5,6 @@ layout: post
 categories: jekyll update
 ---
 
-Attendance: Alec, Alex, Alexander, Karina, Wilfred
-
 ## Updates
 
 - New Orders: The properly fitting pinion gear was not ordered. We found one
@@ -77,5 +75,7 @@ solder flows.
   and Alec finished Karina's work soldering the ESC to the motor.
 * The pinion gears do not need to be reordered. They don't fit, but there were
   gears included in with the motor package all along! 
+
+Attendance: Alec, Alex, Alexander, Karina, Wilfred
 
 \- Alec Guthrie (February 6, 2016)

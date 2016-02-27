@@ -5,8 +5,7 @@ date: 2015-11-07
 categories: jekyll update
 ---
 
-![alt
-text](http://i.imgur.com/boOPXSh.png)
+![](http://i.imgur.com/boOPXSh.png)
 *A Visual Representation of the Agile Lifecycle*
 
 ## Updates
