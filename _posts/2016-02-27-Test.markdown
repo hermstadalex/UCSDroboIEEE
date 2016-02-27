@@ -1,0 +1,7 @@
+---
+title: "Practice #23:"
+date: 2016-02-27
+layout: post
+categories: jekyll update
+---
+jhdfjhsdkf
