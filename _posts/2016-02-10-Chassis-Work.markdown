@@ -5,6 +5,12 @@ layout: post
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/RvpCOfA.jpg"
+            title="title for image"
+            caption="Alec Demonstrating the Pinon Gears not Fitting"
+%}
+
 Updates
 -------
 
@@ -49,11 +55,6 @@ found that all of the gears in the packet had diameters too small (3mm) for the
 motor shaft (5mm.) As a side note, the motor cannot be installed unless the
 servo tierod is temporarily removed to make room. Next Alec tried to solder the
 ESC wires to the motor leads, but he couldn’t find the solder.
-
-![alt
-text](http://i.imgur.com/RvpCOfA.jpg
-"Logo Title Text 1")
-
 
 **Peripherals:**
 

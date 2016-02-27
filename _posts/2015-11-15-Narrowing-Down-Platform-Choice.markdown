@@ -5,6 +5,12 @@ date: 2015-11-15
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/XZNzd0t.png"
+            title="Platforms which Matched the Goals and Requirements"
+            caption="Erle-Brain 2 - Linux Based Platform"
+%}
+
 ## Updates
 * Alec attended an OpenCV workshop offered by The UCSD Data Science Student
   Society and asked the guest presenter Jianfeng Ren about machine vision on

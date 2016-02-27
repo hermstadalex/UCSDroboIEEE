@@ -5,6 +5,14 @@ date:   2015-11-30
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/VhSRh9k.jpg"
+            title="title for image"
+            caption="Plan for Logistics and Funding of Project"
+            width="627px"
+            height="470px"
+%}
+
 During the team's 8th and final practice before the end of the winter quarter,
 much of the time was spent discussing methods of funding the project as well as
 the logistics behind travelling to Colorado for the competition in the summer.
@@ -24,11 +32,6 @@ as well as two Raspberry Pis. The thought behind from this decision came mostly
 from the fact that this would allow us to do parallel development on each
 platoform, and if something went wrong with one, we would have a backup ready
 for use. 
-
-![alt
-text](http://i.imgur.com/VhSRh9k.jpg
-"Logo Title Text 1")
-
 
 ## Travel Logistics
 

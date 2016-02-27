@@ -5,6 +5,13 @@ date:   2015-11-16
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/p1A1jy0.png"
+            title="Platforms which Matched the Goals and Requirements"
+            caption="Navio+ - Autopilot Shield for Raspberry Pi"
+%}
+
+
 [This Week's
 Powerpoint](https://docs.google.com/presentation/d/1lXwgx6CmjfgPG5dmoYTXs09DMjWjsoz3uhJZBkoQ8WQ/edit)
 
@@ -54,10 +61,6 @@ features 179 I/O ports, 2.4 and 5GHz WiFi, Bluetooth, 1GB of RAM, and an ARM
 Cortex A9. Unfortunately it was still in production at the time of our decision.
  
 #### *Final Decision: Navio+ Raspberry Pi*
-
-![alt
-text](http://i.imgur.com/p1A1jy0.png
-"Logo Title Text 1")
 
 
 The team collectively agree upon the Navio+ because it is more extensible and is a

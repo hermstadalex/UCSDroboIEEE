@@ -5,6 +5,14 @@ layout: post
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/uI9ffHX.jpg"
+            title="title for image"
+            caption="Jeffry Mounting the Wheels and Servo onto the Chassis"
+            width="414px"
+            height="553px"
+%}
+
 During the fifth practice of winter quarter we continued to familiarize
 ourselves with newly received parts:
 
@@ -33,13 +41,6 @@ SSH was working. PST also researched VNC solutions to share the desktop over the
 SSH protocol. Karina also finalized here T-shirt design ideas.
 
 HST Jeffry installed all four wheels onto the chassis and mounted the servo.
-
-![alt
-text](http://i.imgur.com/uI9ffHX.jpg
-"Logo Title Text 1")
-
-
- 
 
 ### Attendance
 

@@ -31,7 +31,7 @@ rail outputs and link those with GPS signals using mission planner.
 
 We were only able to complete 1/3 of our initial daily objectives.
 
-**Periphersal:**
+**Peripherals**
 
 * Christian followed the ESC instruction manual for using the LCD Program Box to
   program the ESC and its outputs to the motor. He identified 3 functions of the
@@ -65,12 +65,6 @@ throws the error "This device cannot start. (Code 10).” Alec attempted to fix
 the errors by installing community drivers and the official
 PL2303_Prolific_DriverInstaller_v1_12_0 from Prolific's website, but the
 problems were unresolved and the RC controller remained unprogrammed.
-
-**Perpherals:**
-
-
-**Hardware:**
-
 
 Attendance: Alec, Alex, Alexander, Chris, Jeffry
 

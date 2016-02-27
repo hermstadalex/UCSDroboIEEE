@@ -5,16 +5,19 @@ date: 2015-11-09
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/up86ZQo.jpg"
+            title="Platforms which Matched the Goals and Requirements"
+            caption="Platforms which Matched the Goals and Requirements"
+            width = "414px"
+            height = "553px"
+%}
+
 ## Updates
 * Platform research: Alec, Alex, Alexander, Sanil, Karina, Chris, Wilfred, and
   Clark update the shared research document for potential control platforms.
 
 ## Daily Objectives:
-
-![alt
-text](http://i.imgur.com/up86ZQo.jpg
-"Logo Title Text 1")
-
 
 Today’s practice will start with Alec sharing Oren’s knowledge about choosing a
 control platform. The rest of practice will be used to continue researching

@@ -5,6 +5,12 @@ layout: post
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/iY8OsJL.png"
+            title="title for image"
+            caption="TightVNC Configuration Window"
+%}
+
 Today’s plan was for everyone to self organize since Alec was absent. Only four
 people showed up. The first 10 minutes were spent communicating sub-team
 updates, the whole of practice was for sub-team work, and the final 10 minutes
@@ -18,7 +24,7 @@ before and had built most of the chassis skeleton leaving only wheels, servo,
 motor, and power to be added.
 
 ![alt
-text](http://i.imgur.com/iY8OsJL.png
+text](
 "Logo Title Text 1")
 
 

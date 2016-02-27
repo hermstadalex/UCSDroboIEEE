@@ -5,17 +5,19 @@ date: 2016-01-09
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/bIL6dyF.jpg"
+            title="title for image"
+            caption="Two Raspberry Pis and Accessories"
+%}
+
+
 ## Finishing Fall Quarter Objectives
 
 Before the start of winter quarter, sub-teams were supposed to replace the
 makeshift bill of materials with their thorough parts lists, parts were supposed
 to be ordered, and website bios were expected to be online. Progress was made
 for each of these objectives during practice \#9:
-
-![alt
-text](http://i.imgur.com/bIL6dyF.jpg
-"Logo Title Text 1")
-
 
 * **Bill of materials**:
     The software bill of materials was practically identical to the makeshift

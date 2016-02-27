@@ -6,13 +6,10 @@ categories: jekyll update
 ---
 
 {% include image.html
-            img="assets/practice2.png"
+            img="http://i.imgur.com/boOPXSh.png"
             title="title for image"
-            caption="caption for image"
-            url="http://example.com" %}
-
-![](http://i.imgur.com/boOPXSh.png)
-*A Visual Representation of the Agile Lifecycle*
+            caption="A Visual Representation of the Agile Lifecycle"
+%}
 
 ## Updates
 
@@ -27,7 +24,7 @@ educate ourselves he also suggested that anyone programming start this [AI
 Udacity
 course](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373).
 * Everyone wrote a Slack post in the #social channel showing their excitement
-  for Robomagellan (except for Jeffry). 
+  for Robomagellan. 
 * Everyone reviewed how their personal goals might concur with the SparkFun AVC
   competition. 
 * We collected information about past AVC competitions like blogs and videos to

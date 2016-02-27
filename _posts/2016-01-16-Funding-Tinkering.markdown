@@ -5,6 +5,12 @@ date: 2016-01-16
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/G6CZdvM.jpg"
+            title="title for image"
+            caption="Alex and Wilfred booting up the Raspberry Pi"
+%}
+
 Last Wednesday there was no practice since no work could be done until parts
 arrived. By Friday enough parts had arrived:
 
@@ -39,10 +45,6 @@ our project progresses further.
 
 Raspberry Pi Tinkering
 ----------------------
-
-![alt
-text](http://i.imgur.com/G6CZdvM.jpg
-"Logo Title Text 1")
 
 Next, SST (the software sub-team) and PST (the peripheral sub-team) began to
 familiarize themselves with the Rpis. Although there were two, only one was used

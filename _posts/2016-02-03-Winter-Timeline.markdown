@@ -5,6 +5,12 @@ categories: jekyll update
 title: "Practice #15: Establishing a Winter Quarter Timeline"
 ---
 
+{% include image.html
+            img="http://i.imgur.com/ztJthY6.jpg"
+            title="title for image"
+            caption="Timeline for the Project Leading up to Week 10"
+%}
+
 Updates
 -------
 
@@ -38,14 +44,9 @@ The timeline goal was to finish a controllable powered vehicle and be testing by
 the start of spring quarter. Alec subdivided this task into three objectives:
 build, integrate Rpi2/Navio+, prepare GPS run. The rest of the team proposed
 steps to complete each of the three objectives and Alexander clarified their
-relative priority. The resulting timeline:
+relative priority. 
 
-![alt
-text](http://i.imgur.com/ztJthY6.jpg
-"Logo Title Text 1")
-
-
-### And its Gantt chart: <https://docs.google.com/spreadsheets/d/1CHoFJT1kt2SYMFVhdmkdz5NCH7j40_VRJ2q7BtAex7E/edit?usp=sharing>
+### Timeline's Gantt chart: <https://docs.google.com/spreadsheets/d/1CHoFJT1kt2SYMFVhdmkdz5NCH7j40_VRJ2q7BtAex7E/edit?usp=sharing>
 
  
 

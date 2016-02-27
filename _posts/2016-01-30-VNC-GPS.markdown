@@ -5,6 +5,14 @@ layout: post
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/6IVRAXa.jpg"
+            title="title for image"
+            caption="Alec and Alexander obtaining the first GPS Reading"
+            width="478px"
+            height="638px"
+%}
+
 
 Updates
 -------
@@ -29,13 +37,6 @@ of practice sub-teams defined their specific objectives. SST should continue
 troubleshooting OpenCV and ensure they learn to use SSH and VNC. PST should
 continue learning Mission Planner and work to get an accurate GPS reading. HST
 should diagnose missing pinion gears and work on the Rpi2/Navio+ custom case.
-
-![alt
-text](http://i.imgur.com/6IVRAXa.jpg
-"Logo Title Text 1")
-
-
- 
 
 Progress Reflection
 -------------------

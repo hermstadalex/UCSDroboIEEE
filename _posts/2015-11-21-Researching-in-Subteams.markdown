@@ -5,10 +5,11 @@ date: 2015-11-21
 categories: jekyll update
 ---
 
-![alt
-text](http://i.imgur.com/8YmJkTA.jpg
-"Logo Title Text 1")
-
+{% include image.html
+            img="http://i.imgur.com/8YmJkTA.jpg"
+            title="Platforms which Matched the Goals and Requirements"
+            caption="Tekno RC SCT410.3 Competition"
+%}
 
 ## Updates
 * Four sub-teams of software, peripherals, hardware, and documentation have been

@@ -5,6 +5,13 @@ layout: post
 categories: jekyll update
 ---
 
+
+{% include image.html
+            img="http://i.imgur.com/lzijojQ.png"
+            title="title for image"
+            caption="Candidate T-Shirt Design"
+%}
+
 This practice served primarily as a Raspberry Pi 2 Workshop but time was also
 spent communicating sub-team progress and working within sub-teams.
 
@@ -32,12 +39,6 @@ Fundraising
     -   We will probably need flyers and t-shirts to fundraise
 
 Below is a possible design for the t-shirts:
-
-![alt
-text](http://i.imgur.com/lzijojQ.png
-"Logo Title Text 1")
-
- 
 
 Sub-team Work
 -------------

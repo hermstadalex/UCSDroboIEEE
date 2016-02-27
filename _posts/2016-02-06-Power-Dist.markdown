@@ -6,6 +6,14 @@ layout: post
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/U5qHzwW.jpg"
+            title="title for image"
+            caption="Wheels and Parts for the Chassis"
+            width="414px"
+            height="553px"
+%}
+
 Updates
 -------
 
@@ -56,11 +64,6 @@ HST
 
 -   Improvised their first power distribution schematic:
     
-![alt
-text](http://i.imgur.com/U5qHzwW.jpg
-"Logo Title Text 1")
-
-
 -   Watched [an informational RC power
     video](<A%20good%20summary%20of%20necessary%20components%20in%20RC%20power%20distribution:%20https://www.youtube.com/watch?v=DraFgiDELjI>)
     and learned that the Navio+ power module acts as a BEC for the Navio+/Rpi2

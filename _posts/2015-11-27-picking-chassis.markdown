@@ -5,6 +5,12 @@ date: 2015-11-23
 categories: jekyll update
 ---
 
+{% include image.html
+            img="https://shop.gopro.com/on/demandware.static/-/Sites-gopro-products/default/dwc295831c/cam-represent/cam-represent-HERO4-black.jpg"
+            title="title for image"
+            caption="Go-Pro HD Video Camera"
+%}
+
 During practice #7 on Monday, November 23, the hardware and peripherals teams
 discussed their ideas and thought processes for what type of chassis and sensors
 we should consider for our project. To help with the vagueness of the project

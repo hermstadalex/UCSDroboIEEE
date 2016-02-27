@@ -5,6 +5,14 @@ layout: post
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/Qr4n5xD.jpg"
+            title="title for image"
+            caption="Alec and Alexander Working to Power Navio+"
+            width="360px"
+            height="592px"
+%}
+
 ## Updates
 
 - New Orders: The properly fitting pinion gear was not ordered. We found one
@@ -53,12 +61,6 @@ input and ground.
   controller but it wasn’t enough power. Voltmeter difference when testing pins,
 but was very insignificant (0.2 V). Schematics for hooking up sensors to
 computer.
-
-![alt
-text](http://i.imgur.com/Qr4n5xD.jpg
-"Logo Title Text 1")
-
-
 
 **Hardware:**
 
