@@ -5,8 +5,6 @@ date: 2015-11-15
 categories: jekyll update
 ---
 
-Attendance: Alec, Alex, Alexander, Chris, Sanil, Wilfred
-
 ## Updates
 * Alec attended an OpenCV workshop offered by The UCSD Data Science Student
   Society and asked the guest presenter Jianfeng Ren about machine vision on
@@ -45,3 +43,6 @@ but instead narrow the choice down to three platforms based on their ability to
 meet our goals. Those three were the RPI2, ErleBrain2, and Inforce6410 Plus. We
 also couldn’t split into sub-teams today.
 
+Attendance: Alec, Alex, Alexander, Chris, Sanil, Wilfred
+
+\- Alec Guthrie

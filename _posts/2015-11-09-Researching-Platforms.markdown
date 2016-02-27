@@ -5,8 +5,6 @@ date: 2015-11-09
 categories: jekyll update
 ---
 
-Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
-
 ## Updates
 * Platform research: Alec, Alex, Alexander, Sanil, Karina, Chris, Wilfred, and
   Clark update the shared research document for potential control platforms.
@@ -14,7 +12,7 @@ Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
 ## Daily Objectives:
 
 ![alt
-text](http://i.imgur.com/XZNzd0t.png
+text](http://i.imgur.com/up86ZQo.jpg
 "Logo Title Text 1")
 
 
@@ -44,3 +42,7 @@ are our current microcontroller choices:
 * Arduino
 * Parallax Propeller
 * ATmega16/162
+
+Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
+
+\- Alec Guthrie

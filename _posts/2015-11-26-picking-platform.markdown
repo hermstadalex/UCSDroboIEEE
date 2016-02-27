@@ -67,5 +67,5 @@ applied to hobbies outside of Robomagellan. Additionally, as bugs arise,there is
 an extensive and well-documented community to help solve these issues. This will allow us to get a basic
 robot established early on in the process, allowing us to attempt more daring
 technological endeavors in the future of our project.
-  
+
 \- Karina Nino

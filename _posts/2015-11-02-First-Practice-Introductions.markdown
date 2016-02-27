@@ -5,7 +5,6 @@ layout: post
 categories: jekyll update
 ---
 
-Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
 
 ![alt
 text](http://i.imgur.com/lRT0W5Z.jpg
@@ -48,3 +47,7 @@ was that partners exchanged a candy for every piece of learned information so
 that partners would have both candies by the end of the game, instead everyone
 ended up switching candies.confirmed their registration with IEEE. Finally,
 everyone registered and connected to Slack.
+
+Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
+
+\- Alec Guthrie

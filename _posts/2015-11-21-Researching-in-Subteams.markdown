@@ -5,8 +5,6 @@ date: 2015-11-21
 categories: jekyll update
 ---
 
-Attendance: Alec, Alex, Alexander, Chris, Clark, Jeffry, Karina, Sanil, Wilfred
-
 ![alt
 text](http://i.imgur.com/8YmJkTA.jpg
 "Logo Title Text 1")
@@ -43,3 +41,6 @@ competition and shopped for products matching those specifications.
   they wrote a summary about last practice’s choice to use the RaspberryPi and
 Navio+ as our control platform.
 
+Attendance: Alec, Alex, Alexander, Chris, Clark, Jeffry, Karina, Sanil, Wilfred
+
+\- Alec Guthrie
