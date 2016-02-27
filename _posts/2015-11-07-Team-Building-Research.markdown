@@ -13,7 +13,7 @@ categories: jekyll update
 %}
 
 {% include image.html
-            img="http://i.imgur.com/boOPXSh.png"
+            img="{{ site.url }}/assets/practice2.png"
             title="title for image"
             caption="caption for image"
             url="http://example.com" %}
