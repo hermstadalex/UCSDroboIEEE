@@ -6,14 +6,7 @@ categories: jekyll update
 ---
 
 {% include image.html
-   img="http://i.imgur.com/boOPXSh.png"
-   title="Agile Lifecycle"
-   caption="A Visual Representation of the Agile Lifecycle"
-   url="http://i.imgur.com/boOPXSh.png"
-%}
-
-{% include image.html
-            img="{{ site.url }}/assets/practice2.png"
+            img="assets/practice2.png"
             title="title for image"
             caption="caption for image"
             url="http://example.com" %}
