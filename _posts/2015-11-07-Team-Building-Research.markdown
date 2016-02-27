@@ -5,6 +5,12 @@ date: 2015-11-07
 categories: jekyll update
 ---
 
+{% include image.html
+   img="http://i.imgur.com/boOPXSh.png"
+   title="Agile Lifecycle"
+   caption="A Visual Representation of the Agile Lifecycle"
+%}
+
 ![](http://i.imgur.com/boOPXSh.png)
 *A Visual Representation of the Agile Lifecycle*
 
