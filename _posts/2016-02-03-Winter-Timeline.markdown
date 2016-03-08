@@ -46,7 +46,7 @@ build, integrate Rpi2/Navio+, prepare GPS run. The rest of the team proposed
 steps to complete each of the three objectives and Alexander clarified their
 relative priority. 
 
-### Timeline's Gantt chart: <https://docs.google.com/spreadsheets/d/1CHoFJT1kt2SYMFVhdmkdz5NCH7j40_VRJ2q7BtAex7E/edit?usp=sharing>
+**Timeline's Gantt chart: <https://docs.google.com/spreadsheets/d/1CHoFJT1kt2SYMFVhdmkdz5NCH7j40_VRJ2q7BtAex7E/edit?usp=sharing>**
 
  
 

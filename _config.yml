@@ -8,9 +8,13 @@
 # Site settings
 title: RoboIEEE UCSD
 email: ahermsta@ucsd.edu
-description: > # this means to ignore newlines until "baseurl:"
+description: The website for the 2015-2016 Robomagellan project at the IEEE (Institute for Electrical and Electronics Engineers
+  at UCSD (University of California San Diego). The project involves building an autonomous vehicle to compete in the AVC competition hosted by SparkFun Electronics 
 baseurl: "/UCSDroboIEEE" # the subpath of your site, e.g. /blog
 url: "http://hermstadalex.github.io/UCSDroboIEEE/"# the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+gems:
+   - jekyll-seo-tag

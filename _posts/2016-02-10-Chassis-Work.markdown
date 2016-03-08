@@ -27,7 +27,7 @@ Updates
    * A pack of 5pair XT60 connectors were purchased to solder onto every module
      in the power system once the makeshift solution stops working.
 
-- **Website:** The most recent practice summaries are now live on the website.
+- Website: The most recent practice summaries are now live on the website.
   Alec didn’t push them to the git repository correctly so they have formatting
   errors with the title and do not properly show images within the host
 directory.
@@ -41,8 +41,6 @@ about the sensor pin outs of the Navio+
 
 Progress Reflection
 -------------------
-
-**Software:**
 
 **Hardware:**
 

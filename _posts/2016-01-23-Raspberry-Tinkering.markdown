@@ -23,13 +23,6 @@ Jeffry had been coming into the Project Space on his own time during the week
 before and had built most of the chassis skeleton leaving only wheels, servo,
 motor, and power to be added.
 
-![alt
-text](
-"Logo Title Text 1")
-
-
- 
-
 ### Attendance
 
 Alex, Alexander, Chris, Wilfred
