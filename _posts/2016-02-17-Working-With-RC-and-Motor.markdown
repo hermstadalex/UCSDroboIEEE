@@ -5,6 +5,14 @@ layout: post
 categories: jekyll update
 ---
 
+{% include image.html
+            img="http://i.imgur.com/Qr4n5xD.jpg"
+            title="title for image"
+            caption="Alec and Alexander Working to Power Navio+"
+            width="360px"
+            height="592px"
+%}
+
 ## Updates
 
 - New orders: Alec and Wilfred planned to finish the chassis with the discovered
