@@ -1,6 +1,6 @@
 ---
 title: "Practice #23: Team Name and PPM Encoder"
-date: 2016-03-05
+date: 2016-03-02
 layout: post
 categories: jekyll update
 ---
