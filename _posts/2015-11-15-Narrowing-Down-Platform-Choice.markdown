@@ -51,4 +51,4 @@ also couldn’t split into sub-teams today.
 
 Attendance: Alec, Alex, Alexander, Chris, Sanil, Wilfred
 
-\- Alec Guthrie
+\- Alec Guthrie (February 17, 2016)

@@ -48,4 +48,4 @@ are our current microcontroller choices:
 
 Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
 
-\- Alec Guthrie
+\- Alec Guthrie (February 17, 2016)

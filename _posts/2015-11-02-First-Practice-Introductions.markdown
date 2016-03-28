@@ -50,4 +50,4 @@ everyone registered and connected to Slack.
 
 Attendance: Alec, Alex, Alexander, Chris, Clark, Karina, Sanil, Wilfred
 
-\- Alec Guthrie
+\- Alec Guthrie (February 17, 2016)

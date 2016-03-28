@@ -56,25 +56,32 @@ program box:
    * Press R/P to see Software Version.
    * Press OK to save changes.
 
-   Christian checked the ESC software version to be:  105_150480 and then
+* Christian checked the ESC software version to be:  105_150480 and then
 updated the LCD Program Box firmware to version HW310_V2.1. Lastly, he
 successfully tested out the lipo battery voltmeter on the ECO Power 30C battery
 by inserting the program wire of the battery (red, black, black) into "Battery
 Check" pins of LCD Program Box.
 
-* Alec tried to program the RC controller using the IEEE Quadcopter Project’s
-  PL2303 USB-TTL adapter. He mostly referenced the RC system instruction manual
-and this hobbyist's blog suggested by Ian. Alec installed the programming
-application T6config.exe, connected the dongle, and started the application.
-While starting the application throws a warning "Invalid Port Number” and once
-running the Serial Settings option does not show any available COM ports. Alec
-also noticed that the device driver didn’t work and the Windows10 Device Manager
-throws the error "This device cannot start. (Code 10).” Alec attempted to fix
-the errors by installing community drivers and the official
-PL2303_Prolific_DriverInstaller_v1_12_0 from Prolific's website, but the
-problems were unresolved and the RC controller remained unprogrammed.
+* Alexander and Alex researched how to use the Radio Transmitter to interface
+  with the APM Planner. Alexander and Alex are still in the progress of getting
+a successful signal from the transmitter to the screen on the Mission Planner.
+They worked with the documentation on the APM Rover site which describes a first
+time setup requiring the RC Transmitter to be connected as well as using
+documentation page for the [RC Input for navio+](http://docs.emlid.com/navio/Navio-dev/rc-input/).
+ More research needs to be done,
+but it might be possible that we need a decoder for the signal as described in
+the Erle-Brain 2 page with [this picture](http://erlerobotics.com/docs/img/Robots/common_parts/ppmencoder_connection.png).
+There are also [specific instructions for the
+Erle-Brain](http://rover.ardupilot.com/wiki/common-compatible-rc-transmitter-and-receiver-systems-erle-brain-2/), which is similar to the
+Navio+.
+  
+
+**Hardware**
+
+* Jeffry installed the pinion gear to the spur gear and mounted the motor so the
+  wires were accessible.
 
 Attendance: Alec, Alex, Alexander, Chris, Jeffry
 
 
-\- Alec Guthrie (February 6, 2016)
+\- Alex Hermstad & Alec Guthrie (February 22, 2016)

@@ -70,4 +70,4 @@ peloton vehicle class before ending practice.
 
 Attendance: Alec, Alex, Alexander, Chris, Clark, Jeffry, Karina, Sanil, Wilfred
 
-\- Alec Guthrie
+\- Alec Guthrie (February 17, 2016)
